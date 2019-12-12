@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Janice Note</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <id>http://localhost:4000</id>
+ <updated>2019-12-12T17:07:51+09:00</updated>
+ <author>
+   <name>Minji Janice Cho</name>
+   <uri>https://janicenote.com</uri>
+   <email>minjicho318@gmail.com</email>
+ </author>
+
+ 
+
+ <entry>
+   <title>About Janice Note</title>
+   <link href="http://localhost:4000/janice-note-about/"/>
+   <id>http://localhost:4000/about</id>
+   <updated>2019-12-12T15:35:00+09:00</updated>
+   <content type="html">&lt;h1 id=&quot;welcome&quot;&gt;Welcome!&lt;/h1&gt; &lt;p&gt;&lt;img src=&quot;/img/post/01/intro-img-1200x628px.jpeg&quot; alt=&quot;ABOUT&quot; /&gt;&lt;/p&gt; &lt;h4 id=&quot;to-all-the-people-who-have-adored-korea&quot;&gt;“To all the people who have adored Korea”&lt;/h4&gt; &lt;p&gt;Hi, welcome to Janice Note! I’m so glad you stopped by!&lt;/p&gt; &lt;p&gt;I hope this blog will be able to help you to find a good place or a brand that you interest in Korea.&lt;/p&gt; &lt;p&gt;Working...</content>
+ </entry>
+
+ 
+
+</feed>
