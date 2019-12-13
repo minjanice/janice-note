@@ -4,12 +4,22 @@
  <title>Janice Note</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2019-12-12T17:48:44+09:00</updated>
+ <updated>2019-12-13T12:30:45+09:00</updated>
  <author>
    <name>Minji Janice Cho</name>
    <uri>https://janicenote.com</uri>
    <email>minjicho318@gmail.com</email>
  </author>
+
+ 
+
+ <entry>
+   <title>Cafe Afternoon Hong Kong</title>
+   <link href="http://localhost:4000/janice-note-cafe-afternoonhongkong/"/>
+   <id>http://localhost:4000/afternoonhongkong</id>
+   <updated>2019-12-13T11:50:00+09:00</updated>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/post/02/AfternoonHongKong-img.png&quot; alt=&quot;AfternoonHongKong&quot; /&gt;&lt;/p&gt; &lt;h4 id=&quot;hey-i-am-in-hong-kong&quot;&gt;Hey, I am in Hong Kong!&lt;/h4&gt; &lt;p&gt;If you’re a coffee lover or a milk tea geek, here is a fantastic place for you. This cafe I found a couple of days ago, which was looking extraordinary. Besides, this cafe is a rising place recently at...</content>
+ </entry>
 
  
 
