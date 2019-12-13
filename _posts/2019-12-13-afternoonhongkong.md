@@ -17,7 +17,7 @@ tags:
 description: Let's take a break with a cup of tea at the Afternoon Hong Kong in Seoul!
 ---
 
-![afternoonhongkong](/img/post/02/AfternoonHongKong-img.png)
+![AfternoonHongKong](/img/post/02/AfternoonHongKong-img.png)
 
 #### Hey, I am in Hong Kong!
 
@@ -25,7 +25,7 @@ If you’re a coffee lover or a milk tea geek, here is a fantastic place for you
 
 ![2ndfloor](/img/post/02/img_01.jpg)
 
-The interior was cozy rather than I thought. I felt like I was in the moment of the movie called chungking express. Moreover, the stand light furniture was on point with the tile interior as well as the well-designed broken wall. It led me into the mood kind of a little house in hong kong. 
+The interior was cozy rather than I thought. I felt like I was in the moment of the movie called chungking express. Moreover, the stand light furniture was on point with the tile interior as well as the well-designed broken wall. It led me into the mood kind of a little house in hong kong.
 
 
 
@@ -40,9 +40,6 @@ Do you want a delight relish drink instead of coffee?  Or if you are the person 
 Oh, BTW, i just wanted you to know that the pineapple buns have been coming out at noon. Back then, I had no idea about the bread has been making in this cafe and even the time that they put out! So please make sure if you want to try fresh bread, you need to visit this place at the right hour as well.
 
 
-
 ***
 
 When you visit the place after see my blog later, please tell us in the comments below about your idea of how the bread was or what else.
-
- 
