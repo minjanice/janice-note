@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Cafe Afternoon Hong Kong
-date: 2019-12-18 12:10:00 +09:00
+title: EASTLOGUE
+date: 2019-12-17 23:10:00 +09:00
 author: "Janice Cho"
 permalink: /janice-note-fashion-eastlogue/
 image:
-  feature: eastlogue-main.jpg
+  feature: eastlogue.jpg
 categories:
   - fashion
 tags:
@@ -15,14 +15,15 @@ tags:
   - style
   - Korea
 description: Best timeless brand EASTLOGUE in Korea
-
 ---
 
-![eastlogue-main](/img/post/03/eastlogue-main.jpg)
+![eastlogue-main](/img/post/03/eastlogue.jpg)
 
 #### MAN'S WEAR / EASTLOGUE
 
 Did you ever hear about EASTLOGUE? Well, if you found this brand for the first time in your life, you should know this brand cos this label has been widely known globally since 2011. EASTLOGUE is based in Seoul, the Republic of Korea. This brand has a very unique detail such as plenty of pockets with different sizes as well as designs on an outfit, even mix-matched fabrics combined with refined garments are worthy of attention.
+
+
 
 
 
@@ -60,4 +61,4 @@ If you want to see more EASTLOGUE’s variety of collections, please check out t
 
 ***
 
-Web-site: [EASTLOGUE](
+Web-site: [EASTLOGUE](https://eastlogue.com/)

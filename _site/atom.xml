@@ -4,12 +4,22 @@
  <title>Janice Note</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2019-12-18T00:38:13+09:00</updated>
+ <updated>2019-12-18T10:04:21+09:00</updated>
  <author>
    <name>Minji Janice Cho</name>
    <uri>https://janicenote.com</uri>
    <email>minjicho318@gmail.com</email>
  </author>
+
+ 
+
+ <entry>
+   <title>EASTLOGUE</title>
+   <link href="http://localhost:4000/janice-note-fashion-eastlogue/"/>
+   <id>http://localhost:4000/fashion-eastlogue</id>
+   <updated>2019-12-17T23:10:00+09:00</updated>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/post/03/eastlogue.jpg&quot; alt=&quot;eastlogue-main&quot; /&gt;&lt;/p&gt; &lt;h4 id=&quot;mans-wear--eastlogue&quot;&gt;MAN’S WEAR / EASTLOGUE&lt;/h4&gt; &lt;p&gt;Did you ever hear about EASTLOGUE? Well, if you found this brand for the first time in your life, you should know this brand cos this label has been widely known globally since 2011. EASTLOGUE is based in Seoul, the Republic...</content>
+ </entry>
 
  
 
