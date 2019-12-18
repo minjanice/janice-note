@@ -1,21 +1,21 @@
 ---
 layout: page
-title: About Emerald
+title: About
 ---
-## About
-Emerald is a minimal theme created for Jekyll. The main purpose of Emerald is to provide a clear theme for those who want a blog ready to use, focused on the content and mobile-first.
+# Welcome!
 
-For further details on Emerald, please visit the [repository on Github](https://github.com/KingFelix/emerald/).
+![ABOUT](/img/post/01/intro-img-1200x628px.jpeg)
 
-![Emerald](img/Emerald01.png "Emerald")
 
-### Setup
-Emerald may be installed by simply downloading the .zip folder from the [repository on Github](https://github.com/KingFelix/emerald/archive/master.zip).
 
-After extracting the content from the folder into the selected directory, you can type ``jekyll serve`` from the terminal, than open your browser to ``0.0.0.0:4000/emerald/`` and you will find it there.
+####  “To all the people who have adored Korea”
 
-Additionally it is possible to fork the repository and use Github Pages as hosting. By following this way it will be enough to change the ``baseurl`` value into the ``_config.yml`` file, with the directory name of your project (for example /blog) or simply with a "/" (slash) if you want install Emerald in the root. 
+Hi, welcome to Janice Note! I’m so glad you stopped by!
 
-Last but not least: the [Jekyll documentation](http://jekyllrb.com) is the best starting point!
+I hope this blog will be able to help you to find a good place or a brand that you interest in Korea.
 
-Enjoy!
+Working in the fashion industry as a designer, I’ve been getting inspiration from other places especially cafe as well as Korea fashion brands. Luckily, I could have learned and got motivation from not only artistic places but Korea brands. For this reason, I hope you will have a delightful memory in Korea through a story sharing about the place I have been to as a Korean in Seoul (sometimes giving information about Korean regions).
+
+#### You can’t go wrong with Janice Note!
+
+I’m an enthusiast of coffee as well as fashion. I’ve got numerous things to share the place where I’ve been visiting. Also, I can’t wait to inform you about a fashion brand which is rising stars in Korea. Let’s have fun with me in Korea and share a bunch of stories with other people who want to join us.
