@@ -4,7 +4,7 @@
  <title>Janice Note</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2019-12-19T00:31:16+09:00</updated>
+ <updated>2019-12-19T15:42:15+09:00</updated>
  <author>
    <name>Minji Janice Cho</name>
    <uri>https://janicenote.com</uri>
@@ -14,7 +14,17 @@
  
 
  <entry>
-   <title>EASTLOGUE</title>
+   <title>The most instagrammable cafe in Seoul-Cafe Onion</title>
+   <link href="http://localhost:4000/janice-note-Cafe-Onion/"/>
+   <id>http://localhost:4000/Cafe-Onion</id>
+   <updated>2019-12-19T14:00:00+09:00</updated>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/post/04/onion.jpg&quot; alt=&quot;onion&quot; /&gt;&lt;/p&gt; &lt;h4 id=&quot;cafe-onion&quot;&gt;Cafe Onion&lt;/h4&gt; &lt;p&gt;Back in the day, Seongsu was well-known for factory complexes like steel, shoe-making or something else. However, in these days, Seongsu is no longer than the factory industry at all, rather become a hippest area. At this point, Cafe Onion might be the...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Best aesthetic mans wear present for BF-EASTLOGUE</title>
    <link href="http://localhost:4000/janice-note-fashion-eastlogue/"/>
    <id>http://localhost:4000/fashion-eastlogue</id>
    <updated>2019-12-17T23:10:00+09:00</updated>

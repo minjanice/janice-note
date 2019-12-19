@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EASTLOGUE
+title: Best aesthetic mans wear present for BF-EASTLOGUE
 date: 2019-12-17 23:10:00 +09:00
 author: "Janice Cho"
 permalink: /janice-note-fashion-eastlogue/
@@ -14,7 +14,7 @@ tags:
   - brand
   - style
   - Korea
-description: Best timeless brand EASTLOGUE in Korea
+description: Chrismas is around the corner. Every GF wants to choose and gives a perfect present for their BF. In this case, EASTLOGUE is the best timeless brand. Let's check out the post!
 ---
 
 ![eastlogue-main](/img/post/03/eastlogue.jpg)
