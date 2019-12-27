@@ -4,12 +4,22 @@
  <title>Janice Note</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2019-12-26T13:57:46+09:00</updated>
+ <updated>2019-12-27T17:14:34+09:00</updated>
  <author>
    <name>Minji Janice Cho</name>
    <uri>https://janicenote.com</uri>
    <email>minjicho318@gmail.com</email>
  </author>
+
+ 
+
+ <entry>
+   <title>Get inspired by Low Classic for your New Year's Eve outfit.</title>
+   <link href="http://localhost:4000/janice-note-lowclassic/"/>
+   <id>http://localhost:4000/lowclassic</id>
+   <updated>2019-12-27T15:00:00+09:00</updated>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/post/05/lowclassic.jpg&quot; alt=&quot;lowclassic&quot; /&gt;&lt;/p&gt; &lt;h4 id=&quot;low-classic&quot;&gt;Low Classic&lt;/h4&gt; &lt;p&gt;Y’all need to know this brand for your styling up coming season!!&lt;/p&gt; &lt;p&gt;Now the Christmas passed, but the new year is coming now! All we need to ready for our new outfits for freshly start!&lt;/p&gt; &lt;p&gt;Let’s see together&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/img/post/05/01.jpg&quot; alt=&quot;01&quot; /&gt;&lt;/p&gt; &lt;p&gt;Have...</content>
+ </entry>
 
  
 
