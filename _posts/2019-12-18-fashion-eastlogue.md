@@ -14,7 +14,7 @@ tags:
   - brand
   - style
   - Korea
-description: Chrismas is around the corner. Every GF wants to choose and gives a perfect present for their BF. In this case, EASTLOGUE is the best timeless brand. Let's check out the post!
+description: Christmas is around the corner. Every GF wants to choose and gives a perfect present for their BF. In this case, EASTLOGUE is the best timeless brand. Let's check out the post!
 ---
 
 ![eastlogue-main](/img/post/03/eastlogue.jpg)
