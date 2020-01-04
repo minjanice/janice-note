@@ -11,7 +11,7 @@ categories:
 tags:
   - fashion
   - seoul
-  - clothes
+  - brand
   - style
   - Korea
 description: Around this time of the year, I know we still have been seeking for some outfits for our fresh start up-coming 2020. So I've brought some good news about your new style next year.Let's check out what is your style in Low Classic!

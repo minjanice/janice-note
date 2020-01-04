@@ -4,12 +4,22 @@
  <title>Janice Note</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2019-12-27T17:14:34+09:00</updated>
+ <updated>2020-01-04T21:00:57+09:00</updated>
  <author>
    <name>Minji Janice Cho</name>
    <uri>https://janicenote.com</uri>
    <email>minjicho318@gmail.com</email>
  </author>
+
+ 
+
+ <entry>
+   <title>Would you like to taste coffee similar to butterscotch? Then Cafe Halff Coffee would be solved your answer.</title>
+   <link href="http://localhost:4000/janice-note-cafe-halff/"/>
+   <id>http://localhost:4000/Cafe-Halff</id>
+   <updated>2020-01-04T20:00:00+09:00</updated>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/thumbnail/halff.jpg&quot; alt=&quot;halff&quot; /&gt;&lt;/p&gt; &lt;h4 id=&quot;cafe-halff-coffee&quot;&gt;Cafe Halff Coffee&lt;/h4&gt; &lt;p&gt;Today I am going to introduce a very special coffee! If you’re obsessed with the sweet taste, I guarantee that you love this coffee.&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/img/post/06/02.jpg&quot; alt=&quot;02&quot; /&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/img/post/06/03.jpg&quot; alt=&quot;03&quot; /&gt;&lt;/p&gt; &lt;p&gt;Cafe Halff Coffee, located at Seoul’s express terminal, is a...</content>
+ </entry>
 
  
 
