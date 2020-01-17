@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Would you like to taste coffee similar to butterscotch? Then Cafe Halff Coffee would be solved your answer. 
+title: Would you like to taste coffee similar to butterscotch? Then Cafe Halff Coffee would be solved your answer.
 date: 2020-01-04 20:00:00 +09:00
 author: "Janice Cho"
+content_id: 06
 permalink: /janice-note-cafe-halff/
 image:
   feature: halff.jpg
@@ -14,7 +15,7 @@ tags:
   - coffee
   - lifesyle
   - Korea
-description: Here is the cafe which is selling a very special taste of coffee near the Seoul Express terminal! When you have a sip at first, I guarantee that you absolutely fall in love with this coffee! 
+description: Here is the cafe which is selling a very special taste of coffee near the Seoul Express terminal! When you have a sip at first, I guarantee that you absolutely fall in love with this coffee!
 ---
 
 ![halff](/img/thumbnail/halff.jpg)
@@ -37,7 +38,7 @@ Cafe Halff Coffee, located at Seoul’s express terminal, is a popular cafe not 
 
 ![04](/img/post/06/04.jpg)
 
-Even though the coffee price is not affordable (when I saw the price, I thought that was evil 👿), but it is worth to try if you’re a traveler or you living far from Express Terminal station. 
+Even though the coffee price is not affordable (when I saw the price, I thought that was evil 👿), but it is worth to try if you’re a traveler or you living far from Express Terminal station.
 
 ![01](/img/post/06/01.jpg)
 
@@ -50,4 +51,3 @@ The place is quite narrow compared to other cafes, but because of the colorful a
 - Address: 205, Sapyeong-daero, Seocho-gu, Seoul
 - Hour : 11:00 - 22:00 (Mon-Sun)
 - Phone : 02-6282-3212
-

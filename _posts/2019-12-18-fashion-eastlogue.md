@@ -3,6 +3,7 @@ layout: post
 title: Best aesthetic mans wear present for BF-EASTLOGUE
 date: 2019-12-17 23:10:00 +09:00
 author: "Janice Cho"
+content_id: 03
 permalink: /janice-note-fashion-eastlogue/
 image:
   feature: eastlogue.jpg

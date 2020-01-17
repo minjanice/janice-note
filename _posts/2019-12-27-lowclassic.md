@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Get inspired by Low Classic for your New Year's Eve outfit. 
+title: Get inspired by Low Classic for your New Year's Eve outfit.
 date: 2019-12-27 15:00:00 +09:00
 author: "Janice Cho"
+content_id: 05
 permalink: /janice-note-lowclassic/
 image:
   feature: lowclassic.jpg
@@ -23,7 +24,7 @@ description: Around this time of the year, I know we still have been seeking for
 
 Y’all need to know this brand for your styling up coming season!!
 
-Now the Christmas passed, but the new year is coming now! All we need to ready for our new outfits for freshly start! 
+Now the Christmas passed, but the new year is coming now! All we need to ready for our new outfits for freshly start!
 
 Let’s see together
 
@@ -45,7 +46,7 @@ If you want and seek more casual as well as a reasonable price in design labels?
 
 ![04](/img/post/05/04.jpg)
 
-Locle is the second brand of Low classic, and this label has got huge enthusiasm from young people. Because the price is affordable, yet the aspect of the design has technically good, and even quality has not to get left behind Low Classic. For these reasons, this label has had popular in a short time. 
+Locle is the second brand of Low classic, and this label has got huge enthusiasm from young people. Because the price is affordable, yet the aspect of the design has technically good, and even quality has not to get left behind Low Classic. For these reasons, this label has had popular in a short time.
 
 
 
@@ -56,4 +57,3 @@ Before ending up this posting, when clicking the [Low Classic](http://lowclassic
 * Address : Low Classic 554 Sinsa
 * Phone : +82 2 516 2004
 * Time : PM 12:00 - PM 22:00
-

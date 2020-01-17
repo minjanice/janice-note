@@ -3,6 +3,7 @@ layout: post
 title: The most instagrammable cafe in Seoul-Cafe Onion
 date: 2019-12-19 14:00:00 +09:00
 author: "Janice Cho"
+content_id: 04
 permalink: /janice-note-Cafe-Onion/
 image:
   feature: onion.jpg
@@ -22,7 +23,7 @@ description: When you visit Korea, you might record the moment wherever whenever
 
 #### Cafe Onion
 
-Back in the day, Seongsu was well-known for factory complexes like steel, shoe-making or something else. However, in these days, Seongsu is no longer than the factory industry at all, rather become a hippest area. At this point, Cafe Onion might be the best place to show people why this area earned a reputation for being the hottest district of a cafe in Korea. 
+Back in the day, Seongsu was well-known for factory complexes like steel, shoe-making or something else. However, in these days, Seongsu is no longer than the factory industry at all, rather become a hippest area. At this point, Cafe Onion might be the best place to show people why this area earned a reputation for being the hottest district of a cafe in Korea.
 
 ![img01](/img/post/04/img01.jpg)
 
@@ -34,7 +35,7 @@ This cafe was reborn as an extraordinary space where the past and present coexis
 
 ![img02](/img/post/04/img02.jpg)
 
-As I mentioned above, If when you come to this place, a diverse type and flavor of bread would be able to catch your eyes at first. Furthermore, Cafe Onion serves up bread from Bread 05 Bakery, so you can get a freshly baked bread in-house. 
+As I mentioned above, If when you come to this place, a diverse type and flavor of bread would be able to catch your eyes at first. Furthermore, Cafe Onion serves up bread from Bread 05 Bakery, so you can get a freshly baked bread in-house.
 
 ![img02-2](/img/post/04/img02-2.jpg)
 

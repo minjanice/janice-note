@@ -3,6 +3,7 @@ layout: post
 title: Cafe Afternoon Hong Kong
 date: 2019-12-13 11:50:00 +09:00
 author: "Janice Cho"
+content_id: 02
 permalink: /janice-note-cafe-afternoonhongkong/
 image:
   feature: AfternoonHongKong-img.png
@@ -27,7 +28,7 @@ If you’re a coffee lover or a milk tea geek, here is a fantastic place for you
 
 ![2ndfloor](/img/post/02/img_01.jpg)
 
-The interior was cozy rather than I thought. I felt like I was in the moment of the movie called chungking express. Moreover, the stand light furniture was on point with the tile interior as well as the well-designed broken wall. It led me into the mood kind of a little house in hong kong. 
+The interior was cozy rather than I thought. I felt like I was in the moment of the movie called chungking express. Moreover, the stand light furniture was on point with the tile interior as well as the well-designed broken wall. It led me into the mood kind of a little house in hong kong.
 
 
 
@@ -52,4 +53,3 @@ When you visit the place after see my blog later, please tell us in the comments
 * Address : 188-15 Heukseok-dong, Dongjak-gu, Seoul
 * Hour : 10:00 - 22:00 (Mon-Sun)
 * Phone : 02-6398-6787
-
